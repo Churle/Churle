@@ -1,16 +1,24 @@
-### Hi there 👋
+# 🍀 Hey, im Charlie 🍀
 
-<!--
-**Churle/Churle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Passionate about coding.
+* Developing myself in order to become a Full stack dev.
+* Highly motivated in studing new tech.
+* i have great entrepreneur skills. 📈
 
-Here are some ideas to get you started:
+## 🎯Lenguages and Tools.
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" Height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   width="40" Height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="50" Height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" Height="40" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Stats 
+  <div>
+    <a href="https://github.com/churle">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=churle&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=churle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
+
+## 💬 Contact me:
+ <a href="https://instagram.com/charlie_cwv" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
+
