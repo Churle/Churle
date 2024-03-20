@@ -3,7 +3,7 @@
 * Passionate about coding.
 * Developing myself in order to become a Full stack dev.
 * Highly motivated in studing new tech.
-📈 > I have great entrepreneur skills. 📈
+📈 > I have great entrepreneur and soft skills. 📈
 
 ## 🎯Languages and Tools.
   
